@@ -10,9 +10,9 @@ Race strategy analysis using live data from the [OpenF1 API](https://openf1.org)
 
 | Script | Purpose |
 |--------|---------|
-| `suzuka26/openf1.py` | OpenF1 API client (no external dependencies) |
-| `suzuka26/analysis.py` | Single-race strategy analysis — gap evolution, sector breakdown, dirty air estimate |
-| `suzuka26/dirty_air_multirace.py` | Multi-race dirty air calibration using Australia + China + Japan data |
+| `openf1.py` | OpenF1 API client (no external dependencies) |
+| `analysis.py` | Single-race strategy analysis — gap evolution, sector breakdown, dirty air estimate |
+| `dirty_air_multirace.py` | Multi-race dirty air calibration using Australia + China + Japan data |
 
 ### How to run
 
